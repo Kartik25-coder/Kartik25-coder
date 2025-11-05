@@ -1,6 +1,6 @@
 # 👋 Hey there, I'm Kartik!
 
-🚀 **Aspiring Data Scientist | GATE 2026 Aspirant | GIS & AI Enthusiast**
+🚀 **Aspiring Data Scientist | AI Enthusiast**
 
 Currently exploring **Python, Data Science, and Machine Learning**, while working on exciting projects like **GIS-based OSM Mapping** and **AI-Powered Academic Tools**.
 
