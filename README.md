@@ -57,6 +57,7 @@ kartik = {
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Kartik25-coder&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=7ee787&point=ffa657)
 
 <img src="https://github-readme-stats.vercel.app/api?username=Kartik25-coder&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117" height="160" />
+&nbsp;
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kartik25-coder&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117" height="160" />
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Kartik25-coder&theme=dark&hide_border=true&background=0d1117&ring=58a6ff&fire=ffa657&currStreakLabel=7ee787)](https://git.io/streak-stats)
