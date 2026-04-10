@@ -66,20 +66,6 @@ Geospatial analysis and mapping workflows using OpenStreetMap + GIS tools.
 
 **Repo:** [GIS-Based OSM Mapping](https://github.com/Kartik25-coder)
 
----
-
-### AI-Powered Academic Tools
-AI-driven utilities to improve academic productivity and learning workflows.
-
-- Smart assistance for study and task handling
-- Workflow automation for repetitive academic processes
-- Focus on usability and practical student outcomes
-
-**Tech:** Python, AI/ML, Node.js
-
-**Repo:** [AI-Powered Academic Tools](https://github.com/Kartik25-coder)
-
----
 
 ### More Projects
 - Add your additional projects here (title + one-line impact + tech stack + repo link)
